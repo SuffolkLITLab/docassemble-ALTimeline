@@ -94,12 +94,12 @@ subquestion: |
   </div>
   </div>
 fields:
-  no label: factfinding
+- no label: factfinding
   datatype: radio
   choices: 
     - Yes: factfindingyes
     - No: factfindingno
-
+  
 # https://freefrontend.com/css-timelines/
 # https://bootsnipp.com/snippets/xrKXW
 css: |
